@@ -1,2 +1,2 @@
 # Project_B.techh
-<"hello world">
+It is the Java full stack project.
